@@ -1,2 +1,2 @@
-# Comeat_web
-Pagina creada con angularJS
+# Comeat
+Proyecto de moisés cadima
